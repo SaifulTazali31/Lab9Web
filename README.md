@@ -100,6 +100,9 @@ Buat file baru dengan nama hapus.php pada folder lab9_tugas
 ![ss17](https://user-images.githubusercontent.com/81814954/121773436-24f55680-cba6-11eb-9d75-46bc7782d57b.JPG)
 
 
+Link tugas 10 https://github.com/SaifulTazali31/Lab10Web
+
+
 
 
 
